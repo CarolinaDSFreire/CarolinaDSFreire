@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CarolinaDSFreire
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 CarolinaDSFreire/CarolinaDSFreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
